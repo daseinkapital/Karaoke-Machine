@@ -1,0 +1,32 @@
+c:\users\andrew\documents\visual studio 2015\Projects\Karaoke\Karaoke\bin\Debug\Karaoke.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.Form1.resources
+c:\users\andrew\documents\visual studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.UserControl1.resources
+c:\users\andrew\documents\visual studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.UserControl2.resources
+c:\users\andrew\documents\visual studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\Karaoke.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\Karaoke.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.Form3.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\NAudio.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\NAudio.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.Form2.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.ResolveComReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.Form4.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\Karaoke.exe.manifest
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\Karaoke.application
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.exe.manifest
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.application
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Interop.AXVLC.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\bin\Debug\Interop.AXVLC.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.Form5.resources
+C:\Users\Andrew\Documents\Visual Studio 2015 (old)\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2015 (old)\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.exe
+C:\Users\Andrew\Documents\Visual Studio 2015 (old)\Projects\Karaoke\Karaoke\obj\Debug\Karaoke.pdb
